@@ -29,6 +29,8 @@
         
     }
 
+   
+
     #texto{
         display: flex;
         flex-direction: column;
@@ -50,12 +52,12 @@
     label {
         margin-bottom: 10px;
        font-size: 20px;
-        
+     
     }
     
     input {
         margin-bottom: 10px;
-        height:3vh;
+        height:4vh;
         width: 80%;
        
         
